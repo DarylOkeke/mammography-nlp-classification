@@ -33,7 +33,7 @@ This project builds an NLP pipeline that reads the **indication** and **findings
 
 ## Dataset
 
-De-identified patient data collected from multiple Brazilian radiology institutions. Reports follow a structured format:
+De-identified patient data collected from multiple Brazilian radiology institutions. Due to the sensitivity of this data, it is ommitted from the repository. Reports follow a structured format:
 
 1. **Indicação clínica** — reason for the exam (screening, follow-up, clinical complaint)
 2. **Achados** — radiologist's findings (composition, calcifications, nodules, asymmetries)
